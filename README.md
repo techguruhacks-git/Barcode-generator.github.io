@@ -1,4 +1,7 @@
 # Barcode-generator.github.io
+
+
+Disclaimer: Made with the help of Tutorials and i changed the user interface and add some my own features.
  
 Highseas Barcode generator is web application giving feature to generate the barcode for any Text, You have to enter the Text in the input box and then click on the genreate button , the generated barcode will apprear on the screen.
 

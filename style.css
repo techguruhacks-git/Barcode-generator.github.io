@@ -220,6 +220,5 @@ button:hover {
     
     100%{
         transform: translateY(-100vh) rotate(45deg) ;
-
-    }   
+ }   
 }
